@@ -6,8 +6,8 @@ class CommentList extends Component {
     render() {
         return (
             <div className="CommentList">
-                <Comment author="Aragorn" date="20.12.20" content="You have my sword" />
-                <Comment author="Legolas" date="20.12.20" content="And you have my bow" />
+                <Comment author="Aragorn" date="18.12.20" content="You have my sword" />
+                <Comment author="Legolas" date="19.12.20" content="And you have my bow" />
                 <Comment author="Gimli" date="20.12.20" content="And my axe" />
             </div>
         )
