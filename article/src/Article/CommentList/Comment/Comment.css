@@ -1,0 +1,23 @@
+.Comment {
+    padding: 30px;
+    width: 250px;
+    text-align: left;
+}
+
+.about {
+    border: 1px solid #000000;
+    background-color: blanchedalmond;
+    font-size: 20px;
+}
+
+.author {
+    color: purple;
+}
+
+.date {
+    color: seagreen;
+}
+
+.content {
+    color: #000000;
+}
